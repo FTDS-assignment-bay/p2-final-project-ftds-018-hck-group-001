@@ -19,7 +19,7 @@ Dalam pengembangannya, berbagai algoritma time series dievaluasi dan dibandingka
 ## Kerangka Kerja
 
 1. **Pengumpulan Data**
-   - Data harga penutupan harian dari lima perusahaan teknologi terbesar di NYSE diambil dari [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse?select=prices-split-adjusted.csv).
+   - Data pada NYSE diambil dari [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse?select=prices-split-adjusted.csv).
    - Data disimpan pada Google Drive, yang kemudian diproses dan disiapkan untuk analisis.
 
 2. **Pengambilan Data**

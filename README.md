@@ -1,19 +1,20 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15674753&assignment_repo_type=AssignmentRepo)
-# NeoVenture
+
+# NeoVentures
 
 <p align="center">
-  <img src="images/logo.png" alt="NeoVenture Logo">
+  <img src="images/logo.png" alt="NeoVentures Logo">
 </p>
 
-<p align="center"><i>logo NeoVenture</i></p>
+<p align="center"><i>logo NeoVentures</i></p>
 
 ## Pengenalan
 
-NeoVenture adalah platform inovatif yang didedikasikan untuk prediksi harga saham, dengan fokus pada lima perusahaan teknologi terbesar yang terdaftar di New York Stock Exchange (NYSE). Dengan menggabungkan kekuatan algoritma time series dan machine learning, NeoVenture berupaya memberikan perkiraan harga penutupan harian yang akurat. Proyek ini bertujuan untuk membantu investor dalam menyusun strategi investasi jangka pendek yang efektif, dengan tujuan utama memaksimalkan pengembalian dalam portofolio selama satu bulan ke depan.
+NeoVentures adalah platform inovatif yang didedikasikan untuk prediksi harga saham, dengan fokus pada lima perusahaan teknologi terbesar yang terdaftar di New York Stock Exchange (NYSE). Dengan menggabungkan kekuatan algoritma time series dan machine learning, NeoVentures berupaya memberikan perkiraan harga penutupan harian yang akurat. Proyek ini bertujuan untuk membantu investor dalam menyusun strategi investasi jangka pendek yang efektif, dengan tujuan utama memaksimalkan pengembalian dalam portofolio selama satu bulan ke depan.
 
 Dalam pengembangannya, berbagai algoritma time series dievaluasi dan dibandingkan berdasarkan nilai RMSE (Root Mean Square Error), dengan model terbaik di-deploy pada platform Hugging Face. Hasil prediksi ini memberikan wawasan yang lebih mendalam dan membantu investor dalam membuat keputusan yang lebih cerdas di pasar saham yang dinamis.
 
-*"Neo"* yang berarti baru dalam bahasa Latin, dipadukan dengan *"Venture"* mencerminkan komitmen platform ini untuk membawa inovasi dalam pengambilan keputusan investasi, menghadirkan solusi modern yang dapat diandalkan dalam menghadapi tantangan pasar keuangan.
+*"Neo"* yang berarti baru dalam bahasa Latin, dipadukan dengan *"Ventures"* mencerminkan komitmen platform ini untuk membawa inovasi dalam pengambilan keputusan investasi, menghadirkan solusi modern yang dapat diandalkan dalam menghadapi tantangan pasar keuangan.
 
 ## Kerangka Kerja
 
